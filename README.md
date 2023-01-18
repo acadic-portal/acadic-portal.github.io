@@ -2,8 +2,7 @@
 
 Nesessary JavaScript libraries required for hosting [ACADIC portal](https://acadic.org) could be found in this repository. 
 GitHub Pages enable .js files to get updated, regularly. To use GitHub Pages, the repository must be public and named as ***[username]*.github.io** . 
-In settings>code and automation>Pages>Build and Deployment, the *Source* should be set to "Deploy from a branch" and the *Branch* should be set to "None".  
-Maybe [this page](https://docs.github.com/en/pages/quickstart) could help further. To insert the library to your html code use the line below:
+In settings>code and automation>Pages>Build and Deployment, the *Source* should be set to "Deploy from a branch" and the *Branch* should be set to "None". Maybe [this page](https://docs.github.com/en/pages/quickstart) could help further. To insert the library use the code below:
 
 `  <script src="https://username.github.io/file.js"> </script>  `
 
