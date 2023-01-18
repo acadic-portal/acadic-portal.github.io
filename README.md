@@ -8,6 +8,6 @@ In settings>code and automation>Pages>Build and Deployment, the *Source* should 
 
 To access a GitHub account using Python, a token needs to be produced. To create a token, uner the profile image, click settings. 
 In Developer settings>Personal access tokens click on "Generate new token" and then on "Generate new token (classic)". 
-In the "Select scopes" select repo and generate the token.  Now, a Python script could be written to update the files in the repositories.
+In the "Select scopes" select repo and generate the token.  Now, a Python script could be written to update the files in the repositories. [This page](https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) could help further.
 
-Please kindly cite us, if you use any of our files/datasets. Thank you in advance.
+Please kindly cite us, if you use any of our files or datasets. Thank you in advance.
